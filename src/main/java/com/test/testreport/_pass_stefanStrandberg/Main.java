@@ -19,8 +19,8 @@ public class Main {
 		System.out.println("Division");
 		System.out.println(BC.division(250, 100));
 		
-		System.out.println("Square root");
-		System.out.println(AC.squareRoot(25));
+		System.out.println("Square");
+		System.out.println(AC.square(25));
 		
 		System.out.println("Max");
 		System.out.println(AC.max(25, 45));

@@ -2,7 +2,7 @@ package com.test.testreport._pass_stefanStrandberg;
 
 public class AdvancedCalculator extends BasicCalculator implements AdvancedOperations {
 
-	public double squareRoot(double number) {
+	public double square(double number) {
 		double result = number * number;
 		return result;
 	}
